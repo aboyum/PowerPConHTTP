@@ -18,7 +18,7 @@
  * https://gitlab.com/snippets/1985496
  * https://lerks.blog/turning-a-pc-on-and-off-using-an-esp/ 
  * 
- * https://github.com/aboyum/esp-pc-poweron
+ * https://github.com/aboyum/PowerPConHTTP
  *
  */
 
