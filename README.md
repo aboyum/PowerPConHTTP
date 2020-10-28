@@ -9,3 +9,7 @@ By using a $2 ESP8266 you can turn on your secondary router/firewall and it will
 Drawing:
 
 ![httprelay](/httprelay.png)
+
+
+Youtube video:
+https://youtu.be/3EZdH_YICqI
